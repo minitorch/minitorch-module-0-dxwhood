@@ -10,6 +10,9 @@ from typing import Callable, Iterable
 
 # Mathematical functions:
 # - mul
+def mul(x: float, y: float) -> float:
+    return x * y
+
 # - id
 # - add
 # - neg
